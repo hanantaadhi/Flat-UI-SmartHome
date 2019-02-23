@@ -26,5 +26,5 @@ Credits and Changelog :
 	b. fixed Mysql Connector using NET Framework 4.5.2
 	c. fixed error login
 
-for more info, please kindly touch me at hanantaadhi@gmail.com.
-Demo Video on My Youtube Channel :  
+for more info, please kindly touch me at hanantaadhi@gmail.com. | 
+Demo Video on My Youtube Channel :  https://youtu.be/4zdRGwED_14
